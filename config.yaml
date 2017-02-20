@@ -1,0 +1,19 @@
+baseurl: http://example.org/
+languageCode: en-us
+title: Trevor Whitney
+theme: prologue
+
+params:
+  name: Trevor Whitney
+  description: Senior Software Engineer
+  capyright: MIT
+  social:
+  - medium: github
+    icon: github
+    link: "#"
+  - medium: linkedin
+    icon: linkedin
+    link: "#"
+  - medium: email
+    icon: envelope
+    link: "#"
